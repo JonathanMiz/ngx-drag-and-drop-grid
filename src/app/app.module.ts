@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import {DragAndDropGridExampleComponent} from './examples/drag-and-drop-grid/drag-and-drop-grid.component';
-import {SamDragAndDropGridModule} from 'projects/drag-and-drop-grid-module/src/lib/sam-drag-and-drop-grid.module';
+import {SamDragAndDropGridModule} from '@sam-1994/ngx-drag-and-drop-grid';
 
 @NgModule({
   declarations: [
