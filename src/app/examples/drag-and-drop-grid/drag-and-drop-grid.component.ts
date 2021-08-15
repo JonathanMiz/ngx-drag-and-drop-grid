@@ -1,5 +1,5 @@
 import {Component, OnInit, ViewChild} from '@angular/core';
-import {SamDragAndDropGridComponent} from '@sam-1994/ngx-drag-and-drop-grid';
+import {SamDragAndDropGridComponent } from 'projects/drag-and-drop-grid-module/src/lib/sam-drag-and-drop-grid.component'
 
 @Component({
   selector: 'app-drag-and-drop-grid-example',
